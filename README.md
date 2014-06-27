@@ -21,4 +21,4 @@ The project is using [WebSocket Rails](https://github.com/websocket-rails/websoc
 
 ## License
 
-Copyright (c) 2014 Jason Barry. See LICENSE for details.
+Copyright (c) 2014 Jason Barry. See [LICENSE](LICENSE.md) for details.
