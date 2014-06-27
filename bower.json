@@ -1,0 +1,19 @@
+{
+  "name": "phaser-rails-websockets",
+  "version": "0.0.0",
+  "authors": [],
+  "description": "Phaser/Rails 4 and Websockets",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/assets/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser-official": "~2.0.5"
+  }
+}
