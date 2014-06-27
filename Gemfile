@@ -26,6 +26,7 @@ gem 'rspec-rails', '>= 2.0.1', group: [:development, :test]
 
 gem 'sprockets-rails', :require => 'sprockets/railtie'
 gem 'sass-rails', '~> 4.0.3'
+gem 'coffee-rails'
 gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails'
 gem 'spring',      group: :development
